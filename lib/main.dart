@@ -93,6 +93,7 @@ class MyApp extends StatelessWidget {
                 ResponsiveBreakpoint.resize(710),
                 ResponsiveBreakpoint.resize(720),
                 ResponsiveBreakpoint.resize(750),
+                ResponsiveBreakpoint.autoScale(768),
                 ResponsiveBreakpoint.resize(790),
                 ResponsiveBreakpoint.resize(795),
                 ResponsiveBreakpoint.resize(799),
